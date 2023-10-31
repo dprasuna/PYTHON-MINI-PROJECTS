@@ -1,0 +1,16 @@
+Word Frequency Analysis
+Word		Occurrence Frequency
+hey		4		13.33%
+hye		4		13.33%
+this		4		13.33%
+is		4		13.33%
+prasuna		7		23.33%
+dash		7		23.33%
+
+Most Common Words:
+prasuna: 7 times
+dash: 7 times
+hey: 4 times
+hye: 4 times
+this: 4 times
+is: 4 times
